@@ -1,6 +1,6 @@
 body{
   height: 1250px;
-  
+  font-family: "Encode Sans", serif;
 }
 
 .topo{
@@ -145,7 +145,7 @@ body{
     display: flex;
     flex-wrap: wrap;
     margin-left: 45px;
-    width: 40%;
+    width: 52%;
     height: 20%;
   }
 
@@ -193,146 +193,149 @@ body{
   display: flex;
   flex-wrap: wrap;
   margin-left: 25px;
-  width: 40%;
-  height: 20%;
+  width: 60%;
+  height: 10%;
   margin-top: 40px;
+  font-size: 15px;
 }
 
 
 .segunda-noticia{
   width: 200px;
+  height: 200px;
   margin-left: 25px;  
   margin-top: 20px;
 }
 
- 
- .terceira-galeria{
-  width: 300px;
-  height: 900px;
-  margin-left: 1000px;
-  margin-top: -800px;
+
+.terceira-galeria{
+  width: 20%;
+  height: 70%;
+  margin-left: 760px;
+  margin-top: -680px;
   display: flex;
   flex-wrap: wrap;
- }
+}
 
- .terceira-notica img{
+.terceira-notica img{
   height: 100px;
   width: 193px;
   border-radius: 5px;
   margin-left: 30px;  
- }
- 
+}
 
- .terceiro-titulo-presidente{
+
+.terceiro-titulo-presidente{
   color: green;
   margin-left: 33px;
-  margin-top: 7px;
+  margin-top: 15px;
   margin-bottom: 6px;
   font-weight: bold;
- }
+}
 
- .terceiro-paragrafo-presidente{
-  font-size: 20px;
+.terceiro-paragrafo-presidente{
+  font-size: 15px;
   font-weight: bold;
   margin-left: 33px;
- 
- }
+  margin-top: 15px;
+}
 
- .terceiro-obs-presidente{
+.terceiro-obs-presidente{
   font-size: 15px;
   font-style: italic;
   margin-left: 33px;
-  margin-top: 8px;
- }
+  margin-top: 15px;
+  margin-bottom: 60px;
+}
 
-
- .terceira-notica1 img {
+.terceira-notica1 img {
   height: 100px;
   width: 193px;
   border-radius: 5px;
   margin-left: 30px;  
   margin-top: -90px;
- }
- 
- .terceira-notica2 img {
+
+}
+
+.terceira-notica2 img {
   height: 100px;
   width: 193px;
   border-radius: 5px;
   margin-left: 30px;  
   margin-top: -121px;
- }
+}
 
 
- .quarta-galeria{
-  width: 300px;
-  height: 900px;
-  margin-left: 1301px;
-  margin-top: -900px;
+.quarta-galeria{
+  width: 18%;
+  height: 70%;
+  margin-left: 1070px;
+  margin-top: -870px;
   display: flex;
   flex-wrap: wrap;
- }
+}
 
- .quarta-notica img{
+.quarta-notica img{
   height: 100px;
   width: 193px;
   border-radius: 5px;
   margin-left: 30px;  
- }
+}
 
- .quarta-titulo-presidente{
+.quarta-titulo-presidente{
   color:orange;
   margin-left: 33px;
   margin-top: 7px;
   margin-bottom: 6px;
   font-weight: bold;
- }
+}
 
- .quarta-paragrafo-presidente{
+.quarta-paragrafo-presidente{
   font-size: 20px;
   font-weight: bold;
   margin-left: 33px;
- }
+}
 
- .quarta-obs-presidente{
+.quarta-obs-presidente{
   font-size: 15px;
   font-style: italic;
   margin-left: 33px;
   margin-top: 8px;
- }
+}
 
- .quarta-notica1 img {
+.quarta-notica1 img {
   height: 100px;
   width: 193px;
   border-radius: 5px;
   margin-left: 30px;  
   margin-top: -90px;
- }
+}
 
- .quarta-notica2 img {
+.quarta-notica2 img {
   height: 100px;
   width: 193px;
   border-radius: 5px;
   margin-left: 30px;  
   margin-top: -90px;
- }
+}
 
 
- .separador-horizontal4{
+.separador-horizontal4{
   height: 800px;
   width: 1px;
   background-color: #F5F6F7;
   margin-top: 6px;
   margin-bottom: 6px; 
-  margin-left: 1000px;
+  margin-left: 750px;
   margin-top: -900px;
- }
+}
 
- .separador-horizontal5{
+.separador-horizontal5{
   height: 800px;
   width: 1px;
   background-color: #F5F6F7;
   margin-top: 6px;
   margin-bottom: 6px; 
-  margin-left: 1280px;
+  margin-left: 1050px;
   margin-top: -810px;
- }
+}
